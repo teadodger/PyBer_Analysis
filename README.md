@@ -10,21 +10,22 @@ There are distinct differences between the business PyBer transacts in rurual su
 ![Total Fare by City Type](Analysis/PyBer_fare_summary.png) 
 
 ![Average Fare by City Type](Analysis/Fig1.png) 
+
 Note: Size of the bubbles in the chart correlates with the amount of drivers working
 
 
 ## Summary - Recommendations based on the data
-### * Growth opportunity in rural areas from recruiting more drivers
-The analysis of PyBer's 2019 ride data shows that 6.8% of total fare revenue came from rural cities, derived from 5.3% of PyBer's total rides. In other words, fewer rides led to more revenue in rural areas, because the average cost per ride is higher in rural areas. But the rural cities also have less than 1% of PyBer's drivers. This data suggests that recruiting more drivers in rural cities may lead to an increase in revenue in these regions.
+### * Growth opportunities in rural areas from recruiting more drivers
+The analysis of PyBer's 2019 ride data shows that 6.8% of total fare revenue came from rural cities, derived from 5.3% of PyBer's total rides. In other words, fewer rides led to more revenue in rural areas because the average cost per ride is higher in rural areas. But the rural cities also have less than 1% of PyBer's drivers. This data suggests that recruiting more drivers in rural cities is likely to lead to an increase in revenue in these regions.
 
 ![% of Total Rides by City Type](Analysis/Fig6.png)
 
 ![% Drivers by City Type](Analysis/Fig7.png)
 
-### * Drivers should also be recruited in suburban areas
-While suburban fares are not as high as rural fares, they are somewhat higher than urban fares. Since suburban cities generate 30% of PyBer's total fares with only 12.5% of PyBer's drivers there is strong reason to believe that adding more drivers in suburban cities will lead to an increase in PyBer revenue.
+### * Growth opportunities also exist in the suburban regions
+While suburban fares are not as high as rural fares, they are somewhat higher than urban fares. And since suburban cities generate 30% of PyBer's total fares with only 12.5% of PyBer's drivers there is strong reason to believe that adding more drivers in suburban cities will lead to an increase in PyBer revenue.
 
 
-### * Urban drivers need to be maintained at the current level 
-Although there are growth opportunities in the rural and suburban areas, urban cities are likely to remain the largest source of PyBer's revenue because they generate large volumes of shorter rides. So, although incentives should be put in place to recruit more rural and suburban drivers, PyBer should also take measures to preserve the number of drivers in the city.
+### * Urban driver counts need to be maintained at the current level 
+Although there are clear growth opportunities in the rural and suburban areas, urban cities are likely to remain the largest source of PyBer's revenue because they generate large volumes of shorter rides. So, although incentives should be put in place to recruit more rural and suburban drivers, PyBer should also take measures to preserve the number of drivers in urban regions.
 
